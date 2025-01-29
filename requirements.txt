@@ -1,0 +1,17 @@
+# Core dependencies
+torch>=2.0.1
+torchvision>=0.15.2
+transformers>=4.31.0
+diffusers>=0.19.3
+accelerate>=0.21.0
+
+# UI and visualization
+ipywidgets>=8.1.1
+python-dotenv>=1.0.0
+pillow>=9.5.0
+svgwrite>=1.4.3
+
+# Vectorization and optimization
+pypotrace>=0.3
+scour>=0.38.2
+cairosvg>=2.7.0
